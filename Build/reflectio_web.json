@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Reflection",
+"productVersion": "0.1",
+"dataUrl": "reflectio_web.data.unityweb",
+"wasmCodeUrl": "reflectio_web.wasm.code.unityweb",
+"wasmFrameworkUrl": "reflectio_web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "reflectio_web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
